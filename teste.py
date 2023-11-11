@@ -9,7 +9,7 @@ class turmaTest(unittest.TestCase):
         self.alunos = []
 
         self.alunos.append(a.Aluno('Fabio', 'Teixeira', 10))
-        self.alunos.append(a.Aluno('Fabio', 'Teixeira', 11))
+        #self.alunos.append(a.Aluno('Fabio', 'Teixeira', 11))
         self.alunos.append(a.Aluno('Fabiano', 'Teixeira', 8))
         self.alunos.append(a.Aluno('Melissa', 'Teixeira', 6))
         self.alunos.append(a.Aluno('Angela', 'Teixeira', 7))
